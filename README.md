@@ -1,2 +1,3 @@
 # brianl.io
-Personal Website
+
+Personal website, built with Python Flask.
