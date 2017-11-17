@@ -1,2 +1,0 @@
-# brianl.io
-Personal Website
