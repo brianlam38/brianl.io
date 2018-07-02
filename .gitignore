@@ -1,5 +1,5 @@
+# Configuration
+config.py
 
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
+# Python compiled
+.pyc
